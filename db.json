@@ -1,0 +1,39 @@
+{
+  "User": [
+  {
+    "Lang":"De",
+    "Vorname": "Nasser",
+    "Name": "Benoudi",
+    "Email":"n.benoudi@gmail.com",
+    "Tel":"017663215414"
+  },
+  {
+    "Lang":"EN",
+    "firstName": "Nasser",
+    "lastName": "Benoudi"
+    
+  },
+  {
+    "Lang":"FR",
+    "Prenom": "Nasser",
+    "Nom": "Benoudi"
+    
+  },
+  
+  {
+    "Lang":"EN",
+    "firstName": "Nasser",
+    "lastName": "Benoudi"
+   
+  }
+  ,
+  {
+    "Language": "العربية",
+    "firstName": "ناصر",
+    "lastName": "بن ودي"
+   
+  }
+],
+"address":{"street":"Swindonstr. 135","city":"Salzgitter_Lebensted","state":"Niedersachen","zip":"38226"}
+
+}

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import pic from './../images/url.jpg';
+import pic from './../images/photo.jpg';
 
 
 class Header extends Component {
@@ -46,7 +46,7 @@ class Header extends Component {
             
          </div>
          <div className="three columns">
-         <img className="profile-pic"  width={150} height={150} src={pic} alt="Nasser Benoudi Profile Pic" />
+         <img className="profile-pic"  width={170} height={200} src={pic} alt="Nasser Benoudi Profile Pic" />
         <br /> Name: {name} <br />
          Vorname: {vorname} <br />
         Geburtsdatum: {geburtsdatum} in {geburtsot} <br />

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nbenoudi/nbenoudi.github.io/static/css/main.28899bb6.chunk.css",
-    "main.js": "/nbenoudi/nbenoudi.github.io/static/js/main.5aa9e3a6.chunk.js",
-    "main.js.map": "/nbenoudi/nbenoudi.github.io/static/js/main.5aa9e3a6.chunk.js.map",
-    "runtime-main.js": "/nbenoudi/nbenoudi.github.io/static/js/runtime-main.2b876221.js",
-    "runtime-main.js.map": "/nbenoudi/nbenoudi.github.io/static/js/runtime-main.2b876221.js.map",
-    "static/js/2.b31cd100.chunk.js": "/nbenoudi/nbenoudi.github.io/static/js/2.b31cd100.chunk.js",
-    "static/js/2.b31cd100.chunk.js.map": "/nbenoudi/nbenoudi.github.io/static/js/2.b31cd100.chunk.js.map",
-    "index.html": "/nbenoudi/nbenoudi.github.io/index.html",
-    "precache-manifest.02facbd669235fdcc8557c60c72999fd.js": "/nbenoudi/nbenoudi.github.io/precache-manifest.02facbd669235fdcc8557c60c72999fd.js",
-    "service-worker.js": "/nbenoudi/nbenoudi.github.io/service-worker.js",
-    "static/css/main.28899bb6.chunk.css.map": "/nbenoudi/nbenoudi.github.io/static/css/main.28899bb6.chunk.css.map",
-    "static/js/2.b31cd100.chunk.js.LICENSE.txt": "/nbenoudi/nbenoudi.github.io/static/js/2.b31cd100.chunk.js.LICENSE.txt"
+    "main.css": "/cv_benoudi/static/css/main.28899bb6.chunk.css",
+    "main.js": "/cv_benoudi/static/js/main.34bad94c.chunk.js",
+    "main.js.map": "/cv_benoudi/static/js/main.34bad94c.chunk.js.map",
+    "runtime-main.js": "/cv_benoudi/static/js/runtime-main.b43fa269.js",
+    "runtime-main.js.map": "/cv_benoudi/static/js/runtime-main.b43fa269.js.map",
+    "static/js/2.b31cd100.chunk.js": "/cv_benoudi/static/js/2.b31cd100.chunk.js",
+    "static/js/2.b31cd100.chunk.js.map": "/cv_benoudi/static/js/2.b31cd100.chunk.js.map",
+    "index.html": "/cv_benoudi/index.html",
+    "precache-manifest.f539961a3b28f336f95c13221b836b67.js": "/cv_benoudi/precache-manifest.f539961a3b28f336f95c13221b836b67.js",
+    "service-worker.js": "/cv_benoudi/service-worker.js",
+    "static/css/main.28899bb6.chunk.css.map": "/cv_benoudi/static/css/main.28899bb6.chunk.css.map",
+    "static/js/2.b31cd100.chunk.js.LICENSE.txt": "/cv_benoudi/static/js/2.b31cd100.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b876221.js",
+    "static/js/runtime-main.b43fa269.js",
     "static/js/2.b31cd100.chunk.js",
     "static/css/main.28899bb6.chunk.css",
-    "static/js/main.5aa9e3a6.chunk.js"
+    "static/js/main.34bad94c.chunk.js"
   ]
 }

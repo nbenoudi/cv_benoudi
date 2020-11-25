@@ -27,7 +27,7 @@ class App extends Component {
 
   getIghfData(){
     $.ajax({
-      url:'https://api.jsonbin.io/b/5f7efefb302a837e9576e10c/3',
+      url:'https://api.jsonbin.io/b/5f7efefb302a837e9576e10c/4',
       dataType:'json',
       
       headers: {
